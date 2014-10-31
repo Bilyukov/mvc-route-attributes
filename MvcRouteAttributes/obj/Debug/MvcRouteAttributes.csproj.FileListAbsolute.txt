@@ -1,0 +1,1 @@
+D:\bilyukov\blog\git\mvc-route-attributes\MvcRouteAttributes\bin\Debug\MvcRouteAttributes.exe.config
