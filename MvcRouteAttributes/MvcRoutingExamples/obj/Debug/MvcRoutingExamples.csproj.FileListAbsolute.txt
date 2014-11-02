@@ -1,0 +1,17 @@
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\MvcRoutingExamples.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\MvcRoutingExamples.pdb
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Helpers.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Mvc.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Razor.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.Deployment.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.Razor.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Razor.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.Deployment.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Webpages.Razor.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Helpers.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\bin\System.Web.Mvc.xml
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\obj\Debug\MvcRoutingExamples.csprojResolveAssemblyReference.cache
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\obj\Debug\MvcRoutingExamples.dll
+C:\Developer\blog\git\mvc-route-attributes\MvcRouteAttributes\MvcRoutingExamples\obj\Debug\MvcRoutingExamples.pdb

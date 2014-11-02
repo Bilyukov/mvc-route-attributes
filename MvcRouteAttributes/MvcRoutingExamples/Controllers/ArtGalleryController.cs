@@ -15,6 +15,14 @@ namespace MvcRoutingExamples.Controllers
             return new EmptyResult();
         }
 
+        //Defining route artists with name "GalleryArtists"
+        // www.foo.com/modern-art/artists
+        [Route("{artists}", Name = "GalleryArtists")]
+        public ActionResult Artists()
+        {
+            return new EmptyResult();
+        }
+
         //artist is an optional parameter
         //adding ? means that the parameter is not required
         // www.foo.com/modern-art/paintings
@@ -32,5 +40,16 @@ namespace MvcRoutingExamples.Controllers
         {
             return new EmptyResult();
         }
+
+        //route integer constraint - the passed id must be integer number, outherwise the route will not much
+        // www.foo.com/painting/345
+        // www.foo.com/painting/mona-lisa - not valid (404)
+        [Route("painting/{id:int}")]
+        public ActionResult Painting(int id)
+        {
+            return new EmptyResult();            
+        }
+
+
     }
 }
