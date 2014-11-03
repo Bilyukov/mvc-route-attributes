@@ -33,7 +33,7 @@ namespace MvcRoutingExamples.Controllers
             return new EmptyResult();
         }
 
-        //tilde (~) override the main route prefix
+        //tilde (~) overrides the main route prefix
         // www.foo.com/gallery/12
         [Route("~/gallery/{key}")]
         public ActionResult Gallery(string key)
